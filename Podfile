@@ -6,5 +6,6 @@ target 'know it all avocado' do
   use_frameworks!
 
   # Pods for know it all avocado
+pod 'AlertOnboarding'
 
 end
